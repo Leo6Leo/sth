@@ -8,4 +8,4 @@
 
 EMT： leo_li2001@outlook.com
 
-<img src="https://github.com/Leo6Leo/sth/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210210014744.png">
+<img width="30%" src="https://github.com/Leo6Leo/sth/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210210014744.png">
